@@ -4,6 +4,7 @@ KVM架构才可以，openvz架构不适用
 
 0.获得管理员权限
 sudo -i
+
 1.先运行以下代码
 
 #Debian/Ubuntu:
