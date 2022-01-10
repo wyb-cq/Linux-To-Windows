@@ -11,10 +11,12 @@ sudo -i
 # 1.先运行以下代码
 
 #Debian/Ubuntu:
+
 apt-get update
 
 安装运行库
 #Debian/Ubuntu:
+
 apt-get install -y xz-utils openssl gawk file
 
 apt-get install wget
